@@ -74,13 +74,13 @@ You will see a page "Installing Windows" listing  status of the install. It will
 ## 13
 Eventually, you will see a page showint "Starting services". Just wait until it completes:
 <p align="center">
-    <img src="images2/13.png" width="310" height="230" style="border: 2px solid white;">
+    <img src="images2/13.png" width="310" height="230">
 </p>
 
 ## 14
 Eventually, you will see a page showint "Just a moment...". Just wait until it completes:
 <p align="center">
-    <img src="images2/14.png" width="310" height="230" style="border: 2px solid white;">
+    <img src="images2/14.png" width="310" height="230">
 </p>
 
 ## 15
@@ -104,7 +104,7 @@ Now you need to enter a state where it is "Checking for updates". Just wait unti
 ## 18
 You will now see a black page the "Welcome" shown indicating it is still completing the install. Just wait until it completes:
 <p align="center">
-    <img src="images2/18.png" width="310" height="230" style="border: 2px solid white;">
+    <img src="images2/18.png" width="310" height="230">
 </p>
 ## 19
 Now you will see a page "Let's set things up for you work or school".
@@ -172,12 +172,13 @@ The page should eventually update with the message "Your update is in progress, 
 You will now see a black page with a progress message listed. Just continue to wait until it completes:
 
 <p align="center">
-    <img src="images2/29.png" width="310" height="230" style="border: 2px solid white;">
+    <img src="images2/29.png" width="310" height="230">
 </p>
+
 ## 30
 Just wait until it completes:
 <p align="center">
-    <img src="images2/30.png" width="310" height="230" style="border: 2px solid white;">
+    <img src="images2/30.png" width="310" height="230">
 </p>
 
 ## 31
