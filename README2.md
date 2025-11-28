@@ -1,4 +1,4 @@
-# Detailed Step to install Windows 11 Evaluation VM
+# Detailed Steps to install Windows 11 Evaluation VM
 ## 1
 Power on the VM:
 <p align="center">
@@ -18,7 +18,7 @@ Chose a name for the VM and choose a location where to install the VM details:
 </p>
 
 ## 4
-Choose a passowrd for the TPM:
+Choose a password for the TPM:
 <p align="center">
      <img src="images2/4.png" width="318" height="321">
 </p>
@@ -48,7 +48,7 @@ Once the VM install completes you will be given a screen to choose language, tim
 </p>
 
 ## 9
-You wull be given a "Install now" page, just click on it:
+You will be given a "Install now" page, just click on it:
 <p align="center">
      <img src="images2/9.png" width="310" height="230">
 </p>
@@ -74,13 +74,13 @@ You will see a page "Installing Windows" listing  status of the install. It will
 ## 13
 Eventually, you will see a page showint "Starting services". Just wait until it completes:
 <p align="center">
-     <img src="images2/13.png" width="310" height="230">
+    <img src="images2/13.png" width="310" height="230" style="border: 2px solid white;">
 </p>
 
 ## 14
 Eventually, you will see a page showint "Just a moment...". Just wait until it completes:
 <p align="center">
-     <img src="images2/14.png" width="310" height="230">
+    <img src="images2/14.png" width="310" height="230" style="border: 2px solid white;">
 </p>
 
 ## 15
@@ -96,7 +96,7 @@ The next question is about "...keyboad layout...". Just click "Yes" to accept th
 </p>
 
 ## 17
-Now it will enter a state where it is "Checking for updates". Just wait until it completes:
+Now you need to enter a state where it is "Checking for updates". Just wait until it completes:
 <p align="center">
      <img src="images2/17.png" width="310" height="230">>
 </p>
@@ -104,9 +104,8 @@ Now it will enter a state where it is "Checking for updates". Just wait until it
 ## 18
 You will now see a black page the "Welcome" shown indicating it is still completing the install. Just wait until it completes:
 <p align="center">
-     <img src="images2/18.png" width="310" height="230">
+    <img src="images2/18.png" width="310" height="230" style="border: 2px solid white;">
 </p>
-
 ## 19
 Now you will see a page "Let's set things up for you work or school".
 It is <b>important</b> that you click on "Sign-in options" near the middle of the page.
@@ -134,7 +133,7 @@ The screen should prompt you for "Enter a password". Enter one you will remember
 </p>
 
 ## 23
-Now you will get be asked a series of 3 security questions. Just fill it out with your choice and click "Next":
+Now you will be asked a series of 3 security questions. Just fill it out with your choice and click "Next":
 <p align="center">
      <img src="images2/23.png" width="310" height="230">
 </p>
@@ -164,21 +163,21 @@ The screen will now list "Checking for Windows Updates". Just wait until it comp
 </p>
 
 ## 28
-The page should eventually update with the message "Your update is in progress, we'll take it from here. At the botton of the page it will show a progress message. Just wait untill it completes:
+The page should eventually update with the message "Your update is in progress, we'll take it from here". At the botton of the page it will show a progress message. Just wait untill it completes:
 <p align="center">
      <img src="images2/28.png" width="310" height="230">
 </p>
 
 ## 29
 You will now see a black page with a progress message listed. Just continue to wait until it completes:
-<p align="center">
-     <img src="images2/29.png" width="310" height="230">
-</p>
 
+<p align="center">
+    <img src="images2/29.png" width="310" height="230" style="border: 2px solid white;">
+</p>
 ## 30
 Just wait until it completes:
 <p align="center">
-     <img src="images2/30.png" width="310" height="230">
+    <img src="images2/30.png" width="310" height="230" style="border: 2px solid white;">
 </p>
 
 ## 31
