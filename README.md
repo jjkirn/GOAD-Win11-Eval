@@ -1,6 +1,14 @@
 # Create a Windows 11 Evaluation VM
 I created a <b>non-domain joined Windows 11 Enterprise VM</b> to provide an easy way to install and run various Windows based attack and discovery tools without changing any existing GOAD Domain servers directly. This <b>Windows 11 VM</b> will be used to explore/attack our existing  [Game of Active Directory - GOAD system](https://github.com/Orange-Cyberdefense/GOAD). 
 
+<p align="center">
+     <img src="images/logo_GOAD3.png"420">
+</p>
+
+<p align="center">
+     <img src="images/my-GOADv3-full.png"420">
+</p>
+
 The [<b>SharpHound.exe</b>](https://github.com/SpecterOps/SharpHound) tool in particular extracts all the <b>Active Directory</b> data needed for security professionals who need to understand, discover, and visualize <b>Attack Paths</b> through the use of [<b>BloodHound-CE</b>](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart) . In my case, [<b>BloodHound-CE</b>](https://github.com/jjkirn/Bloodhound-CE) is installed on my <b>Kali</b> linux VM. Therefore, a tool such as <b>WinSCP</b> is used to transfer the <b>SharpHound</b> extracted data back to the <b>Kali</b> VM where it is analyzed using <b>BloodHound-CE</b>.
 
 Here is a list of some tools I suggest you install on this VM once you have completed the base install of this VM:
